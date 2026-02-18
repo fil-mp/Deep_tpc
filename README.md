@@ -1,0 +1,2 @@
+# Deep_tpc
+Official implementation for "DEEP TPC: TEMPORAL-PRIOR CONDITIONING FOR TIME SERIES FORECASTING"

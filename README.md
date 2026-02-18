@@ -1,2 +1,2 @@
-# Deep_tpc
-Official implementation for "DEEP TPC: TEMPORAL-PRIOR CONDITIONING FOR TIME SERIES FORECASTING"
+# DEEP TPC: Temporal-Prior Conditioning for Time Series Forecasting
+Code and additional details will be released soon.

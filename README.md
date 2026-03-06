@@ -46,7 +46,6 @@ python ./preprocess.py --gpu 0 --dataset ETTh1
 
 **Training:**
 ```bash
-cd src
 python -u run.py \
   --task_name long_term_forecast \
   --is_training 1 \
